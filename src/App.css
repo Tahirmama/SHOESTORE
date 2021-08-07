@@ -1,0 +1,54 @@
+.Button{
+  padding:20px;
+  font-size: 15px;
+  margin-left: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  text-decoration: none;
+  border-radius: 10px;
+
+}
+.Button:hover{
+  color: black;
+  background-color: white;
+}
+
+.homepic{
+display: flex;
+height: 396px;
+width: 1366px;
+}
+
+
+.shoestore{
+  background-image: url(https://lh3.googleusercontent.com/proxy/6BOhKu7LEsQ1efVgoiq55Ne-reYbJEZmFRwGwtjNV9e9D1LipjZcSWYldxlsaA9Mk-aUWQmXyPnaVBgVoGUBYIZ0mw0-TKjyA-n-T3_i6lquQ1zK8HZ1D__e9W0GJ5rkBdzCwiXYz3KzcQgRYnNwAN1YJaRM2QRv6Y0CoD4Q3iKPChYG);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-color: lightgray;
+  display: flex;
+  flex-wrap: wrap;
+}
+.link {
+  text-align: center;
+  width: 300px;
+  box-shadow: 0 0 10px #463636;
+  margin: 10px;
+  border-bottom: 8px solid black;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.link:hover {
+  background-color: lightgray;
+}
+.link1{
+  text-align: center;
+  box-shadow: 0 0 10px #463636;
+  margin: 10px;
+  border-bottom: 15px solid black;
+  
+}
